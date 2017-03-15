@@ -11,10 +11,22 @@
     "chai": "^3.5.0",
     "express": "^4.15.2",
     "express-session": "^1.15.1",
-    "gulp": "^3.9.1",
+    "lodash": "^4.17.4",
     "passport-steam": "^1.0.8"
   },
   "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-inject": "^4.2.0",
+    "gulp-jshint": "^2.0.4",
+    "gulp-nodemon": "^2.2.1",
+    "gulp-open": "^2.0.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-sort": "^2.0.0",
+    "gulp-watch": "^4.3.11",
+    "jshint-stylish": "^2.2.1",
     "mocha": "^3.2.0"
   },
   "scripts": {
