@@ -1,0 +1,33 @@
+{
+  "name": "lan-manager",
+  "version": "1.0.0",
+  "description": "A web app built to manage lan parties",
+  "main": "server.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "express": "^4.15.2",
+    "express-session": "^1.15.1",
+    "gulp": "^3.9.1",
+    "passport-steam": "^1.0.8"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bammons/lan-manager.git"
+  },
+  "author": "Bailey Ammons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bammons/lan-manager/issues"
+  },
+  "homepage": "https://github.com/bammons/lan-manager#readme"
+}
